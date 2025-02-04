@@ -1,4 +1,3 @@
 ---
-title : <% tp.file.folder(false) %> 
-draft : false
+title: <% tp.file.folder(false) %>
 ---
