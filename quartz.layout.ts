@@ -67,13 +67,13 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      //filterFn: (node) => node.name !== "templates",
+      filterFn: (node) => node.name !== "Ingrédients",
     })),
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      //filterFn: (node) => node.name !== "templates",
+      filterFn: (node) => node.name !== "Ingrédients",
     })),
   ],
 }

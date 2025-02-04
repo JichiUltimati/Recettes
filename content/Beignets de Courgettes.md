@@ -1,5 +1,5 @@
 ---
-image: my-images/
+socialImage: 
 tags:
 aliases:
 ---

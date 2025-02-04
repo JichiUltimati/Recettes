@@ -9,15 +9,15 @@ export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
 export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
-    if (f1.dates && f2.dates) {
-      // sort descending
-      return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
-    } else if (f1.dates && !f2.dates) {
-      // prioritize files with dates
-      return -1
-    } else if (!f1.dates && f2.dates) {
-      return 1
-    }
+  //   if (f1.dates && f2.dates) {
+  //     // sort descending
+  //     return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
+  //   } else if (f1.dates && !f2.dates) {
+  //     // prioritize files with dates
+  //     return -1
+  //   } else if (!f1.dates && f2.dates) {
+  //     return 1
+  //   }
 
     // otherwise, sort lexographically by title
     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
@@ -42,7 +42,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <div class="flex-container">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const image = "../static/my_images/".concat(page.frontmatter?.socialImage ?? "Afro.png")
+        const image = "../static/my_images/".concat(page.frontmatter?.socialImage ?? "no-image.png")
         const tags = page.frontmatter?.tags ?? []
 
         return (
@@ -90,8 +90,12 @@ div.gallery:hover {
 }
 
 div.gallery img {
+  object-fit:cover;
+  width:100%;
+  height:200;
   display: block;
   margin: 0;
+
 }
 
 div.desc {
@@ -100,9 +104,7 @@ div.desc {
 }
 
 img {
-  object-fit:cover;
-  width:100%;
-  height:100%;
+
 }
 
 .flex-container {

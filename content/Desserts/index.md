@@ -1,4 +1,6 @@
 ---
-title : Desserts 
-draft : false
+title: Desserts
+socialImage:
+tags:
+aliases:
 ---
