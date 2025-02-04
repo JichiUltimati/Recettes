@@ -7,7 +7,7 @@ await tp.file.rename(title)
 -%>
 ---
 draft: false
-image: my-images/
+socialImage: my-images/
 tags:
 aliases:
 ---

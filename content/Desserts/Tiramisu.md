@@ -1,10 +1,10 @@
 ---
 draft: false
-image: my-images/
+socialImage: Afro.png
 tags: 
 aliases: 
-banner:
+banner: /Desserts/Afro.png
 ---
-![[Afro 1.png]]
+![[content/Desserts/Afro.png]]
 
 ![[Afro]]

@@ -2,7 +2,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import path from "path"
 
 import style from "../styles/listPage.scss"
-import { byDateAndAlphabetical, PageList, SortFn } from "../PageList"
+// import { byDateAndAlphabetical, PageList, SortFn } from "../PageList"
+import { byDateAndAlphabetical, PageList, SortFn } from "../PageListImage"
 import { stripSlashes, simplifySlug, joinSegments, FullSlug } from "../../util/path"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
