@@ -1,5 +1,7 @@
 ---
-banner: Images/Mapo Nasu.png
+socialImage: Mapo Nasu.png
+tags:
+aliases:
 ---
 
 ## Ingrédients
@@ -11,7 +13,7 @@ banner: Images/Mapo Nasu.png
 
 **Frites d'aubergines**
 - [[Aubergine]] 
-- [[Fécule de Maïs]] (1 cs)
+- [[Poivre Noir]] (1 cs)
 
 **Sauce**
 - [[Doubanjiang]] (1,5 cs)
@@ -21,6 +23,7 @@ banner: Images/Mapo Nasu.png
 - [[Vinaigre de Riz]] (2 cc)
 - [[Miso]] (1 cc)
 - [[Bouillon de Poule]]
+
 ## Préparation
 
 1. Couper et saler les aubergines en bâtonnets. Sécher sur du sopalin.

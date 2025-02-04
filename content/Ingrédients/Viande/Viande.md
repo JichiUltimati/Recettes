@@ -1,5 +1,0 @@
----
-socialImage: 
-tags:
-aliases:
----

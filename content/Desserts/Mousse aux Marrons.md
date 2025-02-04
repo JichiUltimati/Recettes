@@ -4,10 +4,10 @@ socialImage: Marrons.png
 
 ## Ingrédients
 
-- [[Crème de Marrons]] (500 g)
+- [[content/Ingrédients/Patisserie/Piment Jalapeno]] (500 g)
 - [[Crème Liquide]] (25 cL)
 - [[Blanc d’œufs]] (2)
-- [[Vanille]]
+- [[content/Ingrédients/Patisserie/Échalotes]]
 ## Préparation
 
 1. Battre la crème en chantilly.

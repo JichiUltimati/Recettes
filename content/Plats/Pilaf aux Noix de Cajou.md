@@ -1,8 +1,9 @@
 ---
+socialImage: Kaju-Pulao.png
+tags:
 aliases:
   - Pilaf aux Noix de Cajou
   - Kaju Pulao
-banner: Images/Kaju Pulao.png
 ---
 
 ## Ingrédients
@@ -14,12 +15,14 @@ banner: Images/Kaju Pulao.png
 - [[Gingembre]] (2 cm)
 
 **Épices**
+
 - [[Laurier]] (2)
 - [[Cardamome Verte]] (3)
 - [[Poivre Noir]]
 - [[Cumin|Graines de Carvi]] (1 cc)
 - [[Cannelle]] (1 cc)
 - [[Clous de Girofle]] (2)
+
 ## Préparation
 
 1. Faire revenir les épices dans de l'huile.

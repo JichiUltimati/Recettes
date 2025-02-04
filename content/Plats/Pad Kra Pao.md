@@ -1,5 +1,7 @@
 ---
-banner: Images/Screenshot from 2025-01-30 21-34-39.png
+socialImage: Pad-Kra.png
+tags:
+aliases:
 ---
 
 ## Ingrédients
@@ -20,7 +22,7 @@ banner: Images/Screenshot from 2025-01-30 21-34-39.png
 
 **Supplément**
 
-- [[Œuf]]
+- [[content/Ingrédients/Patisserie/Œuf]]
 
 ## Préparation
 
