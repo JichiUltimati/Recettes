@@ -11,6 +11,7 @@ socialImage: Gnocchis-PD.png
 
 **Garniture**
 - [[Parmesan]]
+
 ## Préparation
 
 1. Rôtir les patates à 180°C pour 55 minutes.
