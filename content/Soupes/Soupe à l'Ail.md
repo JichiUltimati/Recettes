@@ -1,7 +1,6 @@
 ---
 socialImage: Garlic-Soup.png
 ---
-
 ## Ingrédients
 
 - [[Ail]] (3 têtes)

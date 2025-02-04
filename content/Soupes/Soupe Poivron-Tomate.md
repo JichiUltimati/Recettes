@@ -1,7 +1,6 @@
 ---
 socialImage: Poivrons-Tomates.png
 ---
-
 ## Ingrédients
 
 - [[Tomate]] (1 kg)

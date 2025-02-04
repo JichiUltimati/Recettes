@@ -1,7 +1,6 @@
 ---
 socialImage: Gochujang-Butternut.png
 ---
-
 ## Ingrédients
 
 - [[Butternut]]

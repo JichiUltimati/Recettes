@@ -1,7 +1,6 @@
 ---
 socialImage: Soupe-Haricots.png
 ---
-
 ## Ingrédients
 
 - [[Oignon]] (2)

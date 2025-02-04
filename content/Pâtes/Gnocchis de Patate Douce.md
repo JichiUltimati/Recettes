@@ -1,7 +1,6 @@
 ---
-banner: Images/Gnocchis-PD.png
+socialImage: Gnocchis-PD.png
 ---
-#recette 
 ## Ingrédients (pour 4)
 
 - [[Patate Douce]] (2)

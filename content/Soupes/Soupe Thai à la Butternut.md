@@ -1,7 +1,6 @@
 ---
 socialImage: Thai-Butter.png
 ---
-
 ## Ingrédients
 
 - [[Butternut]]
