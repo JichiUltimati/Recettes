@@ -14,7 +14,7 @@ socialImage: Thai-Butter.png
 - [[Pate de Curry Rouge]] (3 cs)
 
 **Garniture**
-- [[Noix de Coco Rappée]] (1/2 tasse)
+- [[Gingembre 1]] (1/2 tasse)
 - [[Lait de Coco]]
 - [[Coriandre Fraîche]]
 - [[Jus de Citron Vert]]

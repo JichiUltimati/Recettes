@@ -22,7 +22,7 @@ aliases:
 
 **Supplément**
 
-- [[content/Ingrédients/Patisserie/Œuf]]
+- [[Œuf]]
 
 ## Préparation
 

@@ -7,7 +7,7 @@ socialImage: Gnocchis-PD.png
 - [[Farine]] (225 g)
 - [[Kale]]
 - [[Romarin]] (2 cc)
-- [[Thym]] (2 cc)
+- [[content/Ingrédients/Epices/Thym]] (2 cc)
 
 **Garniture**
 - [[Parmesan]]

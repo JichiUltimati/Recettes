@@ -1,5 +1,5 @@
 ---
-banner: Images/Panisse.png
+socialImage: Panisse.png
 ---
  
 ## Ingrédients

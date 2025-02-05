@@ -6,7 +6,7 @@ socialImage: Afro.png
 - [[Oignon Rouge]]
 - [[Piment Jalapeno]]
 - [[Concentré de Tomate]]
-- [[Gingembre]]
+- [[Gingembre]] (2 cm)
 - [[Ail]] (4)
 - [[Beurre de Cacahuètes]] (1/2 tasse)
 - [[Kale]]

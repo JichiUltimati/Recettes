@@ -12,7 +12,7 @@ aliases:
 **Marinade**
 - [[Citron Vert]] (2)
 - [[Citronnelle]]
-- [[Gingembre]] (3 cm)
+- [[content/Ingrédients/Aromates/Gingembre]] (3 cm)
 - [[Piment Œil d'Oiseau]] (3)
 - [[Ail]] (3)
 - [[Curcuma]] (1 cc)

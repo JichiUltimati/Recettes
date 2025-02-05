@@ -9,7 +9,7 @@ socialImage: Garlic-Soup.png
 - [[Vin blanc]]
 - [[Herbes de Provence]]
 - [[Parmesan]] (40 g)
-- [[Crème Liquide]] (15 cl)
+- [[content/Ingrédients/Produits Laitiers/Crème Liquide]] (15 cl)
 
 ## Préparation
 

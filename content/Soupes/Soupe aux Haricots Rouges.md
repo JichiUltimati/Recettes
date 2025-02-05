@@ -4,7 +4,7 @@ socialImage: Soupe-Haricots.png
 ## Ingrédients
 
 - [[Oignon]] (2)
-- [[Céleri]] (2)
+- [[content/Ingrédients/Légumes/Céleri]] (2)
 - [[Carotte]]
 - [[Haricots Rouges]] (850 g)
 - [[Ail]] (6)
@@ -16,7 +16,7 @@ socialImage: Soupe-Haricots.png
 **Garniture**
 - [[Coriandre Fraîche]]
 - [[Jus de Citron Vert]]
-- [[Thym]]
+- [[content/Ingrédients/Epices/Thym]]
 ## Préparation
 
 1. Faire revenir céleri, carotte, oignon et l'ail.

@@ -5,7 +5,7 @@ socialImage: Marrons.png
 ## Ingrédients
 
 - [[content/Ingrédients/Patisserie/Piment Jalapeno]] (500 g)
-- [[Crème Liquide]] (25 cL)
+- [[content/Ingrédients/Produits Laitiers/Crème Liquide]] (25 cL)
 - [[Blanc d’œufs]] (2)
 - [[content/Ingrédients/Patisserie/Échalotes]]
 ## Préparation

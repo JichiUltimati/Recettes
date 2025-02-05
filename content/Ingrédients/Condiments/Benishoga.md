@@ -1,6 +1,6 @@
 ---
-draft: false
 socialImage: 
-tags: 
+tags:
 aliases:
 ---
+Gingembre Mariné rouge

@@ -17,4 +17,4 @@ aliases:
 
 1. Battre l’œuf puis ajouter la farine et l'eau en mélangeant délicatement.
 2. Mélanger les légumes coupés en fine lamelles à la pâte.
-3. Faire frire à feu élevé.
+3. Faire frire à feu vif.
