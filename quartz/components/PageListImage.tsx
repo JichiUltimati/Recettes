@@ -103,10 +103,6 @@ div.desc {
   margin: 5px;
 }
 
-img {
-
-}
-
 .flex-container {
   display: flex;
   flex-direction: row;

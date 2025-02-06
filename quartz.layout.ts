@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.BacklinksImage(),
     Component.Comments({
       provider: 'giscus',
       options: {
@@ -43,13 +44,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "templates",
+      filterFn: (node) => node.name !== "Ingrédients",
     })),
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "templates",
+      filterFn: (node) => node.name !== "Ingrédients",
     })),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),

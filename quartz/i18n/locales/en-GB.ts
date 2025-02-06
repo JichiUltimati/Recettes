@@ -25,6 +25,10 @@ export default {
       title: "Backlinks",
       noBacklinksFound: "No backlinks found",
     },
+    backlinksImage: {
+      title: "Reverse Search",
+      noBacklinksFound: "No backlinks found",
+    },
     themeToggle: {
       lightMode: "Light mode",
       darkMode: "Dark mode",
