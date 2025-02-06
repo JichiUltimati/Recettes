@@ -1,5 +1,5 @@
 ---
-socialImage: /my_images/Oreillettes.png
+socialImage: my_images/Oreillettes.png
 tags: 
 aliases:
   - Chiacchiere di Carnevale
