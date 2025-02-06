@@ -1,5 +1,5 @@
 ---
-socialImage: Thai-Butter.png
+socialImage: my_images/Thai-Butter.png
 ---
 ## Ingrédients
 

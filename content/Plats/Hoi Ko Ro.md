@@ -1,5 +1,5 @@
 ---
-socialImage: Hoi.png
+socialImage: my_images/Hoi.png
 tags: 
 aliases:
 ---

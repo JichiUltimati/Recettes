@@ -1,5 +1,5 @@
 ---
-socialImage: Lentille-Chorizo.png
+socialImage: my_images/Lentille-Chorizo.png
 ---
 ## Ingrédients
 

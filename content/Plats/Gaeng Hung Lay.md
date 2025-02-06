@@ -1,5 +1,5 @@
 ---
-socialImage: Gaeng.png
+socialImage: my_images/Gaeng.png
 tags: 
 aliases:
 ---

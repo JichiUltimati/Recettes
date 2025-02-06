@@ -1,5 +1,5 @@
 ---
-socialImage: Marrons.png
+socialImage: my_images/Marrons.png
 ---
 
 ## Ingrédients

@@ -1,5 +1,5 @@
 ---
-socialImage: Panisse.png
+socialImage: my_images/Panisse.png
 ---
  
 ## Ingrédients

@@ -1,5 +1,5 @@
 ---
-socialImage: Pad-Woon-Sen.png
+socialImage: my_images/Pad-Woon-Sen.png
 tags: 
 aliases:
 ---

@@ -1,5 +1,5 @@
 ---
-socialImage: Avocat-Tomate.png
+socialImage: my_images/Avocat-Tomate.png
 tags: 
 aliases:
 ---

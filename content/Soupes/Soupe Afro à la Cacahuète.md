@@ -1,5 +1,5 @@
 ---
-socialImage: Afro.png
+socialImage: my_images/Afro.png
 ---
 ## Ingrédients (x4)
 

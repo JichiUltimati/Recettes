@@ -1,5 +1,5 @@
 ---
-socialImage: Mapo-Nasu.png
+socialImage: my_images/Mapo-Nasu.png
 tags:
 aliases:
 ---

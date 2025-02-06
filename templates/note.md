@@ -6,7 +6,7 @@ title = await tp.system.prompt("Title");
 await tp.file.rename(title)
 -%>
 ---
-socialImage: 
+socialImage: my_images/
 tags:
 aliases:
 ---

@@ -1,5 +1,5 @@
 ---
-socialImage: Khua.png
+socialImage: my_images/Khua.png
 tags: 
 aliases:
 ---

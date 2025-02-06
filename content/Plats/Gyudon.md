@@ -1,5 +1,5 @@
 ---
-socialImage: Gyudon.png
+socialImage: my_images/Gyudon.png
 tags: 
 aliases:
 ---

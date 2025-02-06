@@ -1,5 +1,5 @@
 ---
-socialImage: Gochujang-Butternut.png
+socialImage: my_images/Gochujang-Butternut.png
 ---
 ## Ingrédients
 

@@ -1,5 +1,5 @@
 ---
-socialImage: Curry-Vert.png
+socialImage: my_images/Curry-Vert.png
 tags: 
 aliases:
 ---

@@ -1,5 +1,5 @@
 ---
-socialImage: Lemon-Chicken.png
+socialImage: my_images/Lemon-Chicken.png
 ---
 
 ## Ingrédients

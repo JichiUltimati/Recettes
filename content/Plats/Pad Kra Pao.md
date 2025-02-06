@@ -1,5 +1,5 @@
 ---
-socialImage: Pad-Kra.png
+socialImage: my_images/Pad-Kra.png
 tags:
 aliases:
 ---

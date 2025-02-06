@@ -1,5 +1,5 @@
 ---
-socialImage: Rouge-Ananas.png
+socialImage: my_images/Rouge-Ananas.png
 tags: 
 aliases:
 ---

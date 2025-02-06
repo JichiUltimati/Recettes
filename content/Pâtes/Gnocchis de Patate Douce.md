@@ -1,5 +1,5 @@
 ---
-socialImage: Gnocchis-PD.png
+socialImage: my_images/Gnocchis-PD.png
 ---
 ## Ingrédients (pour 4)
 

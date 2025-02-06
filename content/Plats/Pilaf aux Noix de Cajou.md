@@ -1,5 +1,5 @@
 ---
-socialImage: Kaju-Pulao.png
+socialImage: my_images/Kaju-Pulao.png
 tags:
 aliases:
   - Pilaf aux Noix de Cajou

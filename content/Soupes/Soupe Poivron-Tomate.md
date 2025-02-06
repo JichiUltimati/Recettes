@@ -1,5 +1,5 @@
 ---
-socialImage: Poivrons-Tomates.png
+socialImage: my_images/Poivrons-Tomates.png
 ---
 ## Ingrédients
 

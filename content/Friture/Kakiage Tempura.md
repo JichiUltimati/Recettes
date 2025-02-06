@@ -1,5 +1,5 @@
 ---
-socialImage: Kakiage.png
+socialImage: my_images/Kakiage.png
 tags: 
 aliases:
 ---

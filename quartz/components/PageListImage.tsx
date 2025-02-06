@@ -42,7 +42,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <div class="flex-container">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const image = "../static/my_images/".concat(page.frontmatter?.socialImage ?? "no-image.png")
+        const image = "/Recettes/static/".concat(page.frontmatter?.socialImage ?? "no-image.png")
         const tags = page.frontmatter?.tags ?? []
 
         return (

@@ -1,5 +1,5 @@
 ---
-socialImage: Thai-Swett-Potato.png
+socialImage: my_images/Thai-Swett-Potato.png
 ---
 ## Ingrédients
 

@@ -1,5 +1,5 @@
 ---
-socialImage: Krakatoa.png
+socialImage: my_images/Krakatoa.png
 tags: 
 aliases:
 ---

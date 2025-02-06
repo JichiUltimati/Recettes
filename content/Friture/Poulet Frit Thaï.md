@@ -1,5 +1,5 @@
 ---
-socialImage: Hot-Thai.png
+socialImage: my_images/Hot-Thai.png
 tags: 
 aliases:
 ---

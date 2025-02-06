@@ -1,5 +1,5 @@
 ---
-socialImage: Porc-Ananas.png
+socialImage: my_images/Porc-Ananas.png
 tags: 
 aliases:
 ---

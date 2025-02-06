@@ -1,5 +1,5 @@
 ---
-socialImage: Garlic-Soup.png
+socialImage: my_images/Garlic-Soup.png
 ---
 ## Ingrédients
 

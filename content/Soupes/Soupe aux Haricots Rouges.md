@@ -1,5 +1,5 @@
 ---
-socialImage: Soupe-Haricots.png
+socialImage: my_images/Soupe-Haricots.png
 ---
 ## Ingrédients
 

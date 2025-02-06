@@ -1,5 +1,5 @@
 ---
-socialImage: Manicotti.png
+socialImage: my_images/Manicotti.png
 tags: 
 aliases:
 ---
