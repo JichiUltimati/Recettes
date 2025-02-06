@@ -153,7 +153,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
     <div
       style={{
         display: "flex",
-        flexDirection: "column",
+        flexDirection: "row",
         justifyContent: "center",
         alignItems: "center",
         height: "100%",
