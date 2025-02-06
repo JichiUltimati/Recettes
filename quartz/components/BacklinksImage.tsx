@@ -14,7 +14,6 @@ const defaultOptions: BacklinksOptions = {
 
 export default ((opts?: Partial<BacklinksOptions>) => {
   const options: BacklinksOptions = { ...defaultOptions, ...opts }
-
   const BacklinksImage: QuartzComponent = ({
     fileData,
     allFiles,
@@ -26,6 +25,13 @@ export default ((opts?: Partial<BacklinksOptions>) => {
     if (options.hideWhenEmpty && backlinkFiles.length == 0) {
       return null
     }
+    // check if comments should be displayed according to frontmatter
+    const disableReverseSearch: boolean =
+    typeof fileData.frontmatter?.reverseSearch !== "undefined" &&
+      (!fileData.frontmatter?.reverseSearch || fileData.frontmatter?.reverseSearch === "false")
+    if (disableReverseSearch) {
+      return <></>
+    }
     return (
       <div class={classNames(displayClass, "backlinksImage")}>
         <h1>{i18n(cfg.locale).components.backlinksImage.title}</h1>
@@ -33,7 +39,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
           {backlinkFiles.length > 0 ? (
             backlinkFiles.map((page) => {
               const title = page.frontmatter?.title
-              const image = "/static/my_images/".concat(page.frontmatter?.socialImage ?? "no-image.png")
+              const image = "../static/my_images/".concat(page.frontmatter?.socialImage ?? "no-image.png")
               const tags = page.frontmatter?.tags ?? []
 
               return (
