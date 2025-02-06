@@ -19,7 +19,12 @@ const config: QuartzConfig = {
     baseUrl: "jichiultimati.github.io/Recettes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: {
+      colorScheme: "darkMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
+      width: 1200, // width to generate with (in pixels)
+      height: 630, // height to generate with (in pixels)
+      excludeRoot: false, // wether to exclude "/" index path to be excluded from auto generated images (false = use auto, true = use default og image)
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
