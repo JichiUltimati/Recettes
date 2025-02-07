@@ -8,7 +8,7 @@ aliases:
 
 ## Ingrédients
 
-- [[Riz Basmati]]
+- [[Riz|Riz Basmati]]
 - [[Échalotes]] (2)
 - [[Noix de Cajou]]
 - [[Ail]] (4)

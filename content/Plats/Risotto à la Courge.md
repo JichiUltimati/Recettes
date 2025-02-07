@@ -6,11 +6,18 @@ aliases:
 
 ## Ingrédients
 
-- Test
-- Test
-- Test
-^bite
+**Base [[Risotto]]**
+![[Risotto#^ingr]]
+
+**Garniture**
+- [[Butternut]]
+- [[Sauge]] (16)
 
 ## Préparation
 
-1. 
+**Garniture**
+1. Faire revenir la butternut dans de l'huile et réserver.
+2. Sauter rapidement la sauge dans de l'huile d'olive.
+
+**[[Risotto]]**
+![[Risotto#^prep]]
