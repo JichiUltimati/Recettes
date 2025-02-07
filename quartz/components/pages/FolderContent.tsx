@@ -3,7 +3,7 @@ import path from "path"
 
 import style from "../styles/listPage.scss"
 // import { byDateAndAlphabetical, PageList, SortFn } from "../PageList"
-import { byDateAndAlphabetical, PageList, SortFn } from "../PageListImage"
+import { byDateAndAlphabetical, PageGallery, SortFn } from "../PageGallery"
 import { stripSlashes, simplifySlug, joinSegments, FullSlug } from "../../util/path"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
@@ -96,13 +96,13 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </p>
           )}
           <div>
-            <PageList {...listProps} />
+            <PageGallery {...listProps} />
           </div>
         </div>
       </div>
     )
   }
 
-  FolderContent.css = style + PageList.css
+  FolderContent.css = style + PageGallery.css
   return FolderContent
 }) satisfies QuartzComponentConstructor

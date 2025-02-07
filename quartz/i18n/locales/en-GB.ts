@@ -25,7 +25,7 @@ export default {
       title: "Backlinks",
       noBacklinksFound: "No backlinks found",
     },
-    backlinksImage: {
+    reverseSearch: {
       title: "Reverse Search",
       noBacklinksFound: "No backlinks found",
     },

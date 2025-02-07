@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.BacklinksImage(),
+    Component.ReverseSearch(),
     Component.Comments({
       provider: 'giscus',
       options: {
@@ -44,18 +44,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+      folderClickBehavior: "link",
       filterFn: (node) => node.name !== "Ingrédients",
     })),
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+      folderClickBehavior: "link",
       filterFn: (node) => node.name !== "Ingrédients",
     })),
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Backlinks(),
   ],
 }
 
@@ -68,13 +68,13 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+      folderClickBehavior: "link",
       filterFn: (node) => node.name !== "Ingrédients",
     })),
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
-      folderClickBehavior: "link", 
+      folderClickBehavior: "link",
       filterFn: (node) => node.name !== "Ingrédients",
     })),
   ],

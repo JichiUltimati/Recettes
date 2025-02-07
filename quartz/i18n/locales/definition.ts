@@ -27,7 +27,7 @@ export interface Translation {
       title: string
       noBacklinksFound: string
     }
-    backlinksImage: {
+    reverseSearch: {
       title: string
       noBacklinksFound: string
     }
