@@ -6,6 +6,10 @@ aliases:
 
 ## Ingrédients
 
+**[[Pâte de Curry Rouge]]**
+![[Pâte de Curry Rouge#^ingr]]
+
+**Curry**
 - [[Crevette]] (350 g)
 - [[Poivron Rouge]]
 - [[Ananas]]
@@ -15,23 +19,10 @@ aliases:
 - [[Sucre]] (2 cs)
 - [[Concentré de Tamarin]] (1 cs)
 
-**Pâte de Curry Rouge**
-- [[Échalotes]] (1/2)
-- [[Citronnelle]]
-- [[Galangal]] (1 cm)
-- [[Citron Vert]] (Zest)
-- [[Ail]] (2)
-- [[Coriandre Fraîche]] (4)
-- [[Piment Thaï Rouge]] (10)
-- [[Poivre Blanc]] (2 cc)
-- [[Pâte de Crevette]] (1 cs)
-
 ## Préparation
 
-**Pâte de Curry Rouge**
-1. Chauffer les épices ~30 secondes puis les pilonner.
-2. Pilonner les herbes, l'ail et les échalotes.
-3. Ajouter la pâte de crevette.
+**[[Pâte de Curry Rouge]]**
+![[Pâte de Curry Rouge#^prep]]
 
 **Curry**
 1. Saisir les crevettes et les réserver.

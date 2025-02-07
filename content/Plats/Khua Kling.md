@@ -6,28 +6,20 @@ aliases:
 
 ## Ingrédients
 
+**Curry**
 - [[Porc Haché]] (450 g)
 - [[Piment Œil d'Oiseau]] 
 - [[Feuille de Combava]] (8)
 - [[Nuoc-mâm]] (2 cc)
 - [[Sucre]] (2 cc)
 
-**Pâte de Curry**
-- [[Échalotes]] 
-- [[Citronnelle]]
-- [[Galangal]] (2 cm)
-- [[Citron Vert]] (Zest)
-- [[Ail]] (5)
-- [[Piment Thaï Rouge]] (10)
-- [[Poivre Noir]] (2 cc)
-- [[Curcuma]] (2 cs)
-- [[Pâte de Crevette]] (2 cs)
+**[[Pâte de Curry Rouge]]**
+![[Pâte de Curry Rouge#^ingr]]
 
 ## Préparation
 
-**Pâte de Curry**
-1. Pilonner les herbes, l'ail et les échalotes avec les épices.
-2. Ajouter la pâte de crevette.
+**[[Pâte de Curry Rouge]]**
+![[Pâte de Curry Rouge#^prep]]
 
 **Stir-fry**
 1. Sauter la pâte de curry.
