@@ -39,7 +39,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
           {backlinkFiles.length > 0 ? (
             backlinkFiles.map((page) => {
               const title = page.frontmatter?.title
-              const image = "Recettes/static/".concat(page.frontmatter?.socialImage ?? "no-image.png")
+              const image = "/Recettes/static/".concat(page.frontmatter?.socialImage ?? "no-image.png")
               const tags = page.frontmatter?.tags ?? []
 
               return (

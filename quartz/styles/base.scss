@@ -625,10 +625,15 @@ iframe.pdf {
 .gallery {
   border: 0px solid #ccc;
   float: left;
-  width: 200px;
-  max-width: 45%;
   box-sizing: border-box;
   border-radius: 5px;
+
+  @media all and not ($mobile) {
+    width: 200px;
+  }
+  @media all and ($mobile) {
+    width: 160px;
+  }
 
   &:hover {
     border: 1px solid #777;
