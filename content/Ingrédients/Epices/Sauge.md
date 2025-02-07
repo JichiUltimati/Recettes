@@ -1,5 +1,7 @@
 ---
 socialImage: 
-tags:
-aliases:
+tags: 
+aliases: 
+reverseSearch: true
+comments:
 ---

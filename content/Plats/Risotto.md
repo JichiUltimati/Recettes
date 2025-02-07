@@ -14,7 +14,6 @@ aliases:
 - [[Bouillon de Poule]] (1 L)
 - [[Vin Blanc]] (10 cL)
 
-
 ^ingr
 
 ## Préparation

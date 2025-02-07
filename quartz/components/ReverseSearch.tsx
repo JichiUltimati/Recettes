@@ -27,7 +27,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
     }
     // check if comments should be displayed according to frontmatter
     const disableReverseSearch: boolean =
-    typeof fileData.frontmatter?.reverseSearch !== "undefined" &&
+    typeof fileData.frontmatter?.reverseSearch == "undefined" ||
       (!fileData.frontmatter?.reverseSearch || fileData.frontmatter?.reverseSearch === "false")
     if (disableReverseSearch) {
       return <></>

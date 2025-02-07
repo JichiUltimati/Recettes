@@ -9,4 +9,6 @@ await tp.file.rename(title)
 socialImage: 
 tags:
 aliases:
+reverseSearch: true
+comments: false
 ---
