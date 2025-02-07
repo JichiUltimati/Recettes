@@ -1,5 +1,5 @@
 ---
-socialImage: 
+socialImage: my_images/Risotto.png
 tags:
 aliases:
 ---
