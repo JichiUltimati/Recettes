@@ -1,5 +1,6 @@
 ---
 socialImage: my_images/Garlic-Soup.png
+tags: Végétarien
 ---
 ## Ingrédients
 

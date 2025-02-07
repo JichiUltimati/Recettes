@@ -1,4 +1,5 @@
 ---
 socialImage:
+tags: Végétarien
 ---
 
