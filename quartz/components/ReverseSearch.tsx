@@ -44,7 +44,7 @@ export default ((opts?: Partial<BacklinksOptions>) => {
 
               return (
               <div class="gallery">
-              <a href={resolveRelative(fileData.slug!, page.slug!)} class='card'>
+              <a href={resolveRelative(fileData.slug!, page.slug!)} class='internal'>
               {image && <img src={image} alt={title ?? "Page Image"} />}
               <div class="desc"><h3>{title}</h3></div>
               </a>

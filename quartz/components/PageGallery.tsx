@@ -43,12 +43,12 @@ export const PageGallery: QuartzComponent = ({ cfg, fileData, allFiles, limit, s
     <div class="flex-container">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const image = "/Recettes/static/".concat(page.frontmatter?.socialImage ?? "no-image.png")
+        const image = "Recettes/static/".concat(page.frontmatter?.socialImage ?? "no-image.png")
         const tags = page.frontmatter?.tags ?? []
 
         return (
           <div class="gallery">
-            <a href={resolveRelative(fileData.slug!, page.slug!)} class='card'>
+            <a href={resolveRelative(fileData.slug!, page.slug!)} class='internal'>
             {image && <img src={image} alt={title ?? "Page Image"} />}
             <div class="desc"><h3>{title}</h3></div>
             </a>
