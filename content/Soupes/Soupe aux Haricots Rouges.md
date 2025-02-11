@@ -14,9 +14,9 @@ socialImage: my_images/Soupe-Haricots.png
 - [[Cumin]]
 
 **Garniture**
-- [[Coriandre Fraîche]]
+- [[Coriandre]]
 - [[Jus de Citron Vert]]
-- [[content/Ingrédients/Epices/Thym]]
+- [[Thym]]
 ## Préparation
 
 1. Faire revenir céleri, carotte, oignon et l'ail.

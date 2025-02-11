@@ -1,8 +1,7 @@
 ---
 socialImage: 
-tags: 
+tags:
 aliases:
-  - Nouilles Somen
 reverseSearch: true
 comments: false
 ---

@@ -2,7 +2,7 @@
 socialImage: 
 tags: 
 aliases:
-  - Nouilles Somen
+  - Fusili
 reverseSearch: true
 comments: false
 ---

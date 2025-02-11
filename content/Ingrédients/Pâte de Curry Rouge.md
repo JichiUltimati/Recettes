@@ -12,7 +12,7 @@ reverseSearch: true
 - [[Galangal]] (1 cm)
 - [[Citron Vert]] (Zest)
 - [[Ail]] (2)
-- [[Coriandre Fraîche]] (4)
+- [[Coriandre]] (4)
 - [[Piment Thaï Rouge]] (10)
 - [[Poivre Blanc]] (2 cc)
 - [[Curcuma]] (2 cs)

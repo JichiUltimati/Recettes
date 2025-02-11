@@ -2,7 +2,7 @@
 socialImage: 
 tags: 
 aliases:
-  - Nouilles Somen
+  - Smetana
 reverseSearch: true
 comments: false
 ---

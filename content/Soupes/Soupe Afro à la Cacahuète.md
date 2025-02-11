@@ -14,7 +14,7 @@ socialImage: my_images/Afro.png
 **Garniture**
 - [[Sriracha]]
 - [[Cacahuètes]]
-- [[Coriandre Fraîche]]
+- [[Coriandre]]
 ## Préparation
 
 1. Faire revenir l'oignon et les piments.

@@ -22,11 +22,11 @@ aliases:
 - [[Galangal]] (1 cm)
 - [[Citron Vert]] (Zest)
 - [[Ail]] (2)
-- [[Coriandre Fraîche]] (4)
+- [[Coriandre]] (4)
 - [[Basilic]]
 - [[Piment Thaï Vert]] (15)
 - [[Poivre Blanc]] (2 cc)
-- [[Coriandre]] (2 cc)
+- [[Graines de Coriandre]] (2 cc)
 - [[Cumin]] (1 cc)
 - [[Pâte de Crevette]] (1 cs)
 ## Préparation

@@ -12,7 +12,7 @@ aliases:
 - Sel (1 cs)
 
 **Roux**
-- [[Farine]] (5 cs)
+- [[Farine]] (4 cs)
 - [[Huile]] (5 cs)
 - [[Cinq Épices]] (2 cc)
 
