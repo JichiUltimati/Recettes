@@ -1,5 +1,5 @@
 ---
-title: bases
+title: Bases
 tags: 
 aliases:
 ---

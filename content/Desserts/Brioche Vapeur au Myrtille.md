@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Not-found.png
+socialImage: my_images/Brioche-Myrtille.png
 tags: 
 aliases:
 ---
