@@ -32,4 +32,4 @@ aliases:
 4. Laisser reposer 90 minutes.
 5. Séparer en 10 et farcir avec 2 cs de farce .
 6. Laisser reposer 30 minutes.
-7. Peindre avec l’œuf et cuire 25 minutes à 200°C
+7. Badigeonner avec l’œuf et cuire 25 minutes à 200°C

@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/chimichurri.png
+socialImage: my_images/Chimichurri.png
 tags: 
 aliases:
 ---

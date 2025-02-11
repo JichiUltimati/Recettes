@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/
+socialImage: my_images/Pampushky.png
 tags: 
 aliases:
   - Brioche à l'Ail
@@ -36,4 +36,4 @@ aliases:
 **Jour J**
 1. Séparer en 10 boules dans un moule beurré.
 2. Cuire 50 minutes à 220°C.
-3. Pilonner l'ail, l'aneth et le sel. Mélanger à l'huile pour peindre la brioche.
+3. Pilonner l'ail, l'aneth et le sel. Mélanger à l'huile et en badigeonner la brioche.
