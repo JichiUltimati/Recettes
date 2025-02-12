@@ -7,7 +7,7 @@ aliases:
 ## Ingrédients
 
 - [[Riz|Riz Basmati]]
-- [[Poulet Haché]] (300 g)
+- [[Poulet|Poulet Haché]] (300 g)
 - [[Ail]] (5)
 - [[Piment Œil d'Oiseau]] (4)
 - [[Oignon]] (1/2)

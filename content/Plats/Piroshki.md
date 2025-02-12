@@ -15,8 +15,8 @@ aliases:
 - [[Levure Boulangère]]
 
 **Farce**
-- [[Bœuf Haché]] (100 g)
-- [[Porc Haché]] (100 g)
+- [[Bœuf|Bœuf Haché]] (100 g)
+- [[Porc|Porc Haché]] (100 g)
 - [[Ail]] (3)
 - [[Oignon]]
 - [[Vinaigre Balsamique]] (2 cs)

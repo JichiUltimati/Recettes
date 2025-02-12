@@ -10,7 +10,7 @@ socialImage: my_images/Thai-Swett-Potato.png
 - [[Ail]] (2)
 - [[Gingembre]] (1 cm)
 - [[Beurre de Cacahuètes]]
-- [[Pate de Curry Rouge]]
+- [[Pâte de Curry Rouge]]
 
 - [[Piment de Cayenne]] (1 cc)
 - [[Bouillon de Poule]]

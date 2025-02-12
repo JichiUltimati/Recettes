@@ -7,7 +7,7 @@ aliases:
 ## Ingrédients
 
 **Stir-Fry**
- - [[Porc (Échine)]] (300 g)
+ - [[Porc|Échine de Porc]] (300 g)
  - [[Poivron Vert]] 
  - [[Chou]]
  - [[Cébette]]

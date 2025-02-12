@@ -2,7 +2,9 @@
 comments: false
 reverseSearch: true
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Échine de Porc
+  - Poitrine de Porc
+  - Porc Haché
 ---
-Toujours prendre dans l'échine.

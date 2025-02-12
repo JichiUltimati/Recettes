@@ -11,7 +11,7 @@ socialImage: my_images/Thai-Butter.png
 - [[Cumin]] (1 cc)
 - [[Graines de Coriandre]] (2 cc)
 - [[Flocons de Piments Séchés]] (1 cc)
-- [[Pate de Curry Rouge]] (3 cs)
+- [[Pâte de Curry Rouge]] (3 cs)
 
 **Garniture**
 - [[Gingembre 1]] (1/2 tasse)

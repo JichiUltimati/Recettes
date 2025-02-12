@@ -7,7 +7,7 @@ aliases:
 ## Ingrédients
 
 **Porc Frit**
-- [[Porc (Échine)]] (300 g)
+- [[Porc|Échine de Porc]] (300 g)
 - [[Fécule de Pomme de Terre]]
 
 **Garniture**

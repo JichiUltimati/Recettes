@@ -9,8 +9,8 @@ aliases:
 ![[Pâte de Curry Rouge#^ingr]]
 
 **Curry**
-- [[Poitrine de Porc]] (225 g)
-- [[Porc (Échine)]] (225 g)
+- [[Porc|Poitrine de Porc]] (225 g)
+- [[Porc|Échine de Porc]] (225 g)
 - [[Oignon]]
 - [[Ail]] (1 tête)
 - [[Gingembre]] (5 cm)

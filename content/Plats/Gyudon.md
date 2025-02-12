@@ -7,7 +7,7 @@ aliases:
 ## Ingrédients
 
 **Gyudon**
-- [[Épaule de Bœuf]] (250 g)
+- [[Bœuf|Épaule de Bœuf]] (250 g)
 - [[Oignon]] 
 
 **Sauce**

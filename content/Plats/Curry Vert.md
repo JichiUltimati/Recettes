@@ -6,7 +6,7 @@ aliases:
 ## Ingrédients
 
 **Curry**
-- [[Cuisse de Poulet]] (2)
+- [[Poulet|Cuisse de Poulet]] (2)
 - [[Lait de Coco]] (400 mL)
 - [[Pousse de Bambou]] (200 g)
 - [[Poivron Rouge]]

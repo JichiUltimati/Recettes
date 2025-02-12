@@ -4,13 +4,7 @@ reverseSearch: true
 socialImage: 
 tags: 
 aliases:
-  - Poivron Corne de Bœuf Vert
+  - Cuisse de Poulet
+  - Poulet Haché
+  - Blanc de Poulet
 ---
-
-## Ingrédients
-
-- 
-
-## Préparation
-
-1. 

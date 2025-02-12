@@ -6,7 +6,7 @@ aliases:
 
 ## Ingrédients
 
-- [[Porc (Échine)]] (400 g)
+- [[Porc|Échine de Porc]] (400 g)
 - [[Poivron Rouge]] (2)
 - [[Ananas]] 
 - [[Oignon Rouge]]

@@ -6,7 +6,7 @@ aliases:
 
 ## Ingrédients
 
-- [[Porc Haché]] (150 g)
+- [[Porc|Porc Haché]] (150 g)
 - [[Ail]] (3)
 - [[Gingembre]] (1 cm)
 - [[Cébette]]
