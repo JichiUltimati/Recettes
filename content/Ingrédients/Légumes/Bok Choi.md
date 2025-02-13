@@ -1,8 +1,7 @@
 ---
 socialImage: 
-tags: 
+tags:
 aliases:
-  - Shiitake
 reverseSearch: true
 comments: false
 ---

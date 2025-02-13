@@ -2,7 +2,7 @@
 socialImage: 
 tags: 
 aliases:
-  - Shiitake
+  - Cottage Cheese
 reverseSearch: true
 comments: false
 ---

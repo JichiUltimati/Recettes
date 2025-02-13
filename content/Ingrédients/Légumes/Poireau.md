@@ -1,7 +1,8 @@
 ---
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Negi
 reverseSearch: true
 comments: false
 ---
