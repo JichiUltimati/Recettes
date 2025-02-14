@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Croquette-Kabocha
+socialImage: my_images/Croquette-Kabocha.png
 tags: 
 aliases:
 ---
