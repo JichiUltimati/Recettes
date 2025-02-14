@@ -12,7 +12,7 @@ aliases:
 **Garniture**
 
 - [[Carotte]] (1/2)
-- [[Radis|Daikon]] (50 g)
+- [[Daikon]] (50 g)
 - [[Persil]]
 
 ## Préparation

@@ -7,10 +7,11 @@ aliases:
 ## Ingrédients
 
 **Pâte [[Bao Zi]]**
+
 ![[Bao Zi#^ingr]]
-- 
 
 **Farce**
+
 - [[Beurre de Cacahuètes]] (1 cs)
 - [[Lao Gan Ma]]
 
