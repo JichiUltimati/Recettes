@@ -24,7 +24,7 @@ aliases:
 **Garniture**
 - [[Citron Vert]]
 - [[Cacahuètes]]
-- [[Ciboulette]]
+- [[Cébette]]
 - [[Pousse de Soja]] (100 g)
 
 ## Préparation

@@ -4,9 +4,10 @@ socialImage: my_images/Panisse.png
  
 ## Ingrédients
 
-- [[Piment de Cayenne]] (250 g)
+- [[Farine de Pois Chiches]] (270 g)
 - [[Ail]] (4)
 - [[Bouillon de Poule]] (1 L)
+
 ## Préparation
 
 1. Mélanger la farine, la moitié du bouillon et l'ail haché.

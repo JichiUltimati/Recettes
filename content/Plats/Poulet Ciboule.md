@@ -7,7 +7,7 @@ aliases:
 
 - [[Poulet|Cuisse de Poulet]] (600 g)
 - [[Ail]] (3)
-- [[Ciboulette]] (1 botte)
+- [[Ciboulette|Pousse d'Ail]] (1 botte)
 - [[Shichimi Togarashi]] (1 cc)
 
 **Sauce**

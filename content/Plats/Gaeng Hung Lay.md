@@ -9,6 +9,7 @@ aliases:
 ![[Pâte de Curry Rouge#^ingr]]
 
 **Curry**
+
 - [[Porc|Poitrine de Porc]] (225 g)
 - [[Porc|Échine de Porc]] (225 g)
 - [[Oignon]]
@@ -17,6 +18,7 @@ aliases:
 - [[Garam Masala]] (2 cs)
 
 **Sauce**
+
 - [[Concentré de Tamarin]] (4 cs)
 - [[Sucre]] (2 cs)
 - [[Sauce Soja]] (2 cs)

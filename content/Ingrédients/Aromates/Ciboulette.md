@@ -2,6 +2,7 @@
 comments: false
 reverseSearch: true
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Pousse d'Ail
 ---
