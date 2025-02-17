@@ -1,8 +1,8 @@
 ---
 socialImage: 
-tags:
+tags: 
 aliases:
-    - Poche de Tofu Frit
+  - Kabocha
 reverseSearch: true
 comments: false
 ---

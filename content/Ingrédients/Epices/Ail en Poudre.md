@@ -2,7 +2,6 @@
 socialImage: 
 tags:
 aliases:
-    - Poche de Tofu Frit
 reverseSearch: true
 comments: false
 ---

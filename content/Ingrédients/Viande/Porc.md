@@ -7,4 +7,5 @@ aliases:
   - Échine de Porc
   - Poitrine de Porc
   - Porc Haché
+  - Côte de Porc (Échine)
 ---

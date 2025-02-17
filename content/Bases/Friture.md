@@ -5,11 +5,9 @@ aliases:
 ---
 ## Ingrédients
 
-**Friture**
-
 - [[Farine]]
 - [[Œuf]]
-- [[Panure|Panko]]
+- [[content/Ingrédients/Panure|Panko]]
 
 ^ingr
 

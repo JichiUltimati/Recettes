@@ -11,7 +11,7 @@ aliases:
 **Boulette de Poulet**
 
 - [[Poulet|Poulet Haché]] (285 g)
-- [[Panure|Panko]] (30 g)
+- [[content/Ingrédients/Panure|Panko]] (30 g)
 - [[Œuf]]
 - [[Shichimi Togarashi]] (1 cc)
 - [[Huile de Sésame]] (1 cc)
