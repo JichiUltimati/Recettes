@@ -11,6 +11,8 @@ aliases:
 
 **Soupe**
 
+p50 de momofuku
+
 **Tare**
 p 415 du bouquin jap.
 

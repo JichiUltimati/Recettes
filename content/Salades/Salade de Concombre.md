@@ -9,7 +9,7 @@ aliases:
 - [[Chou]] (1/4)
 - [[Concombre]] (1/2)
 - [[Vinaigre de Cidre]] (2 cs)
-- [[Sucre Glace]] (1 cs)
+- [[Sucre]] (1 cs)
 - [[Aneth]]
 
 ## Préparation

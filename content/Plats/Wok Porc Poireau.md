@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Not-found.png
+socialImage: my_images/Wok-Porc-Poireau.png
 tags: 
 aliases:
 ---

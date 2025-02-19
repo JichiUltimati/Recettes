@@ -9,7 +9,7 @@ aliases:
 **Pâte**
 - [[Farine]] (250 g)
 - [[Lait Entier]] (125 mL, tiède)
-- [[Sucre Glace]] (50 g)
+- [[Sucre]] (50 g)
 - [[Beurre Doux]] (50 g)
 - [[Œuf]] (2 jaunes)
 - [[Levure Boulangère]]

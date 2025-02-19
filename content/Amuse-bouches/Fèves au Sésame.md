@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Fève-Sésame.png
+socialImage: my_images/Fèves-Sésame.png
 tags: 
 aliases:
 ---

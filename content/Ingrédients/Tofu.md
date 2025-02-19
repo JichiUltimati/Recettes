@@ -1,5 +1,6 @@
 ---
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Tofu Soyeux
 ---

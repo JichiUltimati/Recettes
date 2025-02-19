@@ -7,4 +7,5 @@ aliases:
   - Cuisse de Poulet
   - Poulet Haché
   - Blanc de Poulet
+  - Ailes de Poulet
 ---

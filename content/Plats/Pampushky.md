@@ -12,7 +12,7 @@ aliases:
 - [[Lait Entier]] (260 mL)
 - [[Farine]] (300 g)
 - [[Farine Complète]] (200 g)
-- [[Sucre Glace]] (60 g)
+- [[Sucre]] (60 g)
 - [[Beurre Doux]] (50 g)
 - [[Œuf]] (3)
 - Sel (10 g)

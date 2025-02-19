@@ -8,4 +8,5 @@ aliases:
   - Poitrine de Porc
   - Porc Haché
   - Côte de Porc (Échine)
+  - Épaule de Porc
 ---

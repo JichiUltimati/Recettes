@@ -18,4 +18,5 @@ aliases:
 ## Préparation
 
 1. Râper les carottes et tout mélanger.
-2. Faire frire à feu vif pendant 5 minutes.
+2. Faire des boulettes.
+3. Faire frire à feu vif pendant 5 minutes.
