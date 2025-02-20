@@ -17,7 +17,7 @@ aliases:
 - Eau
 
 **Légumes**
-- [[Poivron Rouge]]
+- [[Poivron|Poivron Rouge]]
 - [[Oignon]]
 - [[Ail]] (5)
 - [[Piment Thaï Vert]] (3)

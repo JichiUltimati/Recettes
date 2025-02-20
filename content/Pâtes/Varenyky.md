@@ -23,18 +23,24 @@ aliases:
 - [[Salo]] (50 g)
 ## Préparation
 
+**[[Oignons Caramélisés]]**
+
+![[Oignons Caramélisés#^prep]]
+
 **Farce**
-1. Caraméliser les oignons à feu doux.
-2. Cuire les patates et en faire une purée en incorporant la crème fraîche.
-3. Mélanger les oignons et la cébette à la purée.
+
+1. Cuire les patates et en faire une purée en incorporant la crème fraîche.
+2. Mélanger les oignons caramélisés et la cébette à la purée.
 
 **Varenyky**
-4. Mélanger l’œuf et l'eau dans un bol.
-5. Incorporez la farine peu à peu, puis pétrir ~5 minutes.
-6. Laissez reposez 25 minutes.
-7. Farcir et cuire dans de l'eau bouillante jusqu'à ce qu'ils remontent.
-8. Mélanger dans un peu de beurre fondu.
+
+1. Mélanger l’œuf et l'eau dans un bol.
+2. Incorporez la farine peu à peu, puis pétrir ~5 minutes.
+3. Laissez reposez 25 minutes.
+4. Farcir et cuire dans de l'eau bouillante jusqu'à ce qu'ils remontent.
+5. Mélanger dans un peu de beurre fondu.
 
 **Garniture**
-9. Couper les onions en dés et les mélanger à la farine.
-10. Faire frire dans le salo.
+
+1. Couper les onions en dés et les mélanger à la farine.
+2. Faire frire dans le salo.

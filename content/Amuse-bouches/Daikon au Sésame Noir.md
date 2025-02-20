@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Daikon-Sésame.pn
+socialImage: my_images/Daikon-Sésame.png
 tags: 
 aliases:
 ---

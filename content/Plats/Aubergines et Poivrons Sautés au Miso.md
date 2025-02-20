@@ -6,7 +6,7 @@ aliases:
 ## Ingrédients
 
 - [[Aubergine]] (350 g)
-- [[Poivron Vert|Poivron Corne de Bœuf Vert]] (150 g)
+- [[Poivron|Poivron Corne de Bœuf]] (150 g)
 - [[Ail]] (2)
 - [[Gingembre]] (2 cm)
 

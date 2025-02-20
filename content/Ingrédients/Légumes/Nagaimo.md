@@ -10,3 +10,5 @@ Peut être remplacé par un mélange de :
 - Farine de Riz Gluant (50 g)
 - Levure Chimique
 - Eau
+  
+Ou des blancs d’œufs.

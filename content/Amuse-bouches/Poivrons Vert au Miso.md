@@ -6,7 +6,7 @@ aliases:
 
 ## Ingrédients
 
-- [[Poivron Vert|Poivron Corne de Bœuf Vert]]  (200 g)
+- [[Poivron|Poivron Corne de Bœuf]]  (200 g)
 - [[Cacahuètes]] (30 g)
 - [[Miso]] (1 cs)
 - [[Mirin]] (1 cs)

@@ -8,7 +8,7 @@ aliases:
 
 **Stir-Fry**
  - [[Porc|Échine de Porc]] (300 g)
- - [[Poivron Vert]] 
+ - [[Poivron|Poivron Vert]] 
  - [[Chou]]
  - [[Cébette]]
  - [[Ail]]

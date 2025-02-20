@@ -6,7 +6,7 @@ aliases:
 ## Ingrédients
 
 - [[Porc|Poitrine de Porc]] (350 g)
-- [[Poivron Vert|Poivron Corne de Bœuf Vert]] (250 g)
+- [[Poivron|Poivron Corne de Bœuf]] (250 g)
 - [[Poireau]]
 
 **Bouillon**

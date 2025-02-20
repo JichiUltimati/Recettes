@@ -5,8 +5,8 @@ socialImage: my_images/Lentille-Chorizo.png
 
 - [[Oignon]] (2)
 - [[Carotte]] (2)
-- [[Tomate]] (800g)
-- [[Lentille Corail]] (300g)
+- [[Tomate]] (800 g)
+- [[Lentille|Lentille Corail]] (300 g)
 - [[Ail]] (3)
 - [[Vinaigre Balsamique]] (2 cs)
 - [[Chorizo]]

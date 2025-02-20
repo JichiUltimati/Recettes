@@ -13,7 +13,7 @@ aliases:
 **Garniture**
 - [[Oignon]]
 - [[Carotte]]
-- [[Poivron Vert]]
+- [[Poivron|Poivron Vert]]
 
 **Sauce**
 - Eau (3 cs)

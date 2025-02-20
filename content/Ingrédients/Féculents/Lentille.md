@@ -4,13 +4,6 @@ reverseSearch: true
 socialImage: 
 tags: 
 aliases:
-  - Poivron Corne de Bœuf Vert
+  - Lentille Verte
+  - Lentille Corail
 ---
-
-## Ingrédients
-
-- 
-
-## Préparation
-
-1. 

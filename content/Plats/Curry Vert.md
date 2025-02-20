@@ -9,7 +9,7 @@ aliases:
 - [[Poulet|Cuisse de Poulet]] (2)
 - [[Lait de Coco]] (400 mL)
 - [[Pousse de Bambou]] (200 g)
-- [[Poivron Rouge]]
+- [[Poivron|Poivron Rouge]]
 - [[Nuoc-mâm]] (2 cs)
 - [[Cassonade]] (2 cs)
 - [[Feuille de Combava]] (4)

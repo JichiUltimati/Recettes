@@ -4,7 +4,7 @@ socialImage: my_images/Poivrons-Tomates.png
 ## Ingrédients
 
 - [[Tomate]] (1 kg)
-- [[Poivron Rouge]] (2)
+- [[Poivron|Poivron Rouge]] (2)
 - [[Oignon]]
 - [[Ail]] (4)
 

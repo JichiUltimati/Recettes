@@ -1,7 +1,8 @@
 ---
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Agneau Haché
 reverseSearch: true
 comments: false
 ---

@@ -1,7 +1,8 @@
 ---
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Raisin de Corinthe
 reverseSearch: true
 comments: false
 ---

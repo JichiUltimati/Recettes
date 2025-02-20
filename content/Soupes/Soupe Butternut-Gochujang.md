@@ -4,7 +4,7 @@ socialImage: my_images/Gochujang-Butternut.png
 ## Ingrédients
 
 - [[Butternut]]
-- [[Poivron Rouge]] (2)
+- [[Poivron|Poivron Rouge]] (2)
 - [[Oignon]]
 - [[Lait de Coco]]
 - [[Ail]] (3)

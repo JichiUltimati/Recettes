@@ -10,8 +10,8 @@ aliases:
 - [[Bœuf|Bœuf Haché]] (50 g)
 - [[Carotte]]
 - [[Oignon]]
-- [[Poivron Vert]] (1/2)
-- [[Nagaimo]]
+- [[Poivron|Poivron Vert]] (1/2)
+- [[Nagaimo]] (5 cm)
 
 **Friture**
 

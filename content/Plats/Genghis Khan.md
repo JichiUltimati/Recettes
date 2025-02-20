@@ -9,7 +9,7 @@ aliases:
 - [[Potimarron|Kabocha]] (150 g)
 - [[Carotte]] (150 g)
 - [[Poireau]]
-- [[Poivron Vert]]
+- [[Poivron|Poivron Vert]]
 - [[Oignon]]
 
 **Marinade**

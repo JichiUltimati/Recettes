@@ -11,7 +11,7 @@ aliases:
 
 **Curry**
 - [[Crevette]] (350 g)
-- [[Poivron Rouge]]
+- [[Poivron|Poivron Rouge]]
 - [[Ananas]]
 - [[Lait de Coco]] (350 mL)
 - [[Feuille de Combava]] (8)
