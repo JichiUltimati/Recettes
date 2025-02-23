@@ -4,10 +4,10 @@ socialImage: my_images/Marrons.png
 
 ## Ingrédients
 
-- [[content/Ingrédients/Patisserie/Piment Jalapeno]] (500 g)
-- [[content/Ingrédients/Produits Laitiers/Crème Liquide]] (25 cL)
+- [[Crème de Marrons]] (500 g)
+- [[Crème|Crème Fleurette]] (25 cL)
 - [[Blanc d’œufs]] (2)
-- [[content/Ingrédients/Patisserie/Échalotes]]
+- [[Vanille]] (1 cc)
 ## Préparation
 
 1. Battre la crème en chantilly.

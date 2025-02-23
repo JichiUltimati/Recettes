@@ -1,6 +1,6 @@
 ---
-socialImage: my_images/
-tags:
+socialImage: my_images/Porc-Hakka.png
+tags: 
 aliases:
 ---
 ## Ingrédients
@@ -16,7 +16,7 @@ aliases:
 
 - Eau (5 cs)
 - [[Farine]] (3 cs)
-- [[Fécule de Maïs]] (3 cs)
+- [[Fécule]] (3 cs)
 - [[Levure Chimique]] (1/2 cc)
 
 **Plat**

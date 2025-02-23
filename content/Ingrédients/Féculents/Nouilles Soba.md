@@ -10,7 +10,7 @@ comments: true
 - [[Farine de Sarrasin]] (400 g)
 - [[Farine]] (100 g)
 - Eau (225 g)
-- [[Fécule de Pomme de Terre]]
+- [[Fécule|Fécule de Pomme de Terre]]
 
 ^ingr
 

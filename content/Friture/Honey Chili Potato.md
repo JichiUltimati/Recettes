@@ -28,7 +28,7 @@ aliases:
 - [[Sucre]] (1 cs)
 - [[Poivre Noir]] (2 cc)
 - [[Sauce Soja]] (1 cc)
-- [[Fécule de Maïs]] (1 cc)
+- [[Fécule]] (1 cc)
 
 **Garniture**
 - [[Sésame]]

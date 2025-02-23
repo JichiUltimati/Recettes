@@ -8,7 +8,7 @@ aliases:
 
 **Porc Frit**
 - [[Porc|Échine de Porc]] (300 g)
-- [[Fécule de Pomme de Terre]]
+- [[Fécule|Fécule de Pomme de Terre]]
 
 **Garniture**
 - [[Oignon]]

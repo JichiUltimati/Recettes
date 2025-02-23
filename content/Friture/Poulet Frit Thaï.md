@@ -9,7 +9,7 @@ aliases:
 **Poulet**
 - [[Cuisse de Poulet]] (4)
 - [[Œuf]]
-- [[Fécule de Pomme de Terre]] (2 cs)
+- [[Fécule|Fécule de Pomme de Terre]] (2 cs)
 - [[Farine]] (3/4 tasse)
 
 **Sauce**

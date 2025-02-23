@@ -9,7 +9,7 @@ aliases:
 
 - [[Bœuf|Bœuf Haché]] (360 g)
 - [[Sauce Soja]] (2 cc)
-- [[Fécule de Maïs]] (1 cc)
+- [[Fécule]] (1 cc)
 - [[Poivre du Sichuan]] (1/2 cc)
 - [[Huile]] (1/2 cc)
 

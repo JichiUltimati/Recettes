@@ -10,7 +10,7 @@ aliases:
 - [[Beurre Doux]] (175 g)
 - [[Levure Chimique]] (1 cs)
 - [[Sel]] (1 cc)
-- [[Crème Épaisse]] (125 mL)
+- [[Crème|Crème Épaisse]] (125 mL)
 - [[Œuf]] (petit)
 - [[Sucre Glace]]
 

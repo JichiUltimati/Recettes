@@ -5,4 +5,5 @@ socialImage:
 tags: 
 aliases:
   - Tomate Verte
+  - Tomate Cerise
 ---

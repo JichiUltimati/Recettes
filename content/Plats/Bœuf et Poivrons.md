@@ -1,17 +1,15 @@
 ---
-socialImage: my_images/
-tags:
+socialImage: my_images/Boeuf-Poivrons.png
+tags: 
 aliases:
 ---
 ## Ingrédients
-
-
 
 **Boeuf**
 
 - [[Bœuf|Bavette]] (400 g)
 - [[Sauce Soja]] (1 cs)
-- [[Fécule de Maïs]] (1 cs)
+- [[Fécule]] (1 cs)
 - [[Huile de Sésame]] (1 cc)
 - [[Blanc d’œufs]] 
 - [[Poivre Blanc]]
@@ -23,7 +21,7 @@ aliases:
 - [[Ail]] (3)
 - [[Gingembre]] (2 cm)
 - [[Sésame]] (2 cc)
-- [[Fécule de Maïs]] (1 cc)
+- [[Fécule]] (1 cc)
 ## Préparation
 
 1. Couper le bœuf en fines tranches puis mélanger au reste des ingrédients.

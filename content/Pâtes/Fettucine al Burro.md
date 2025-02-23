@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Fettuccine-Gurro.png
+socialImage: my_images/Fettuccine-Burro.png
 tags: 
 aliases:
 ---

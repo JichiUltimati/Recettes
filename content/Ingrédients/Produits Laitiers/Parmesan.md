@@ -2,6 +2,8 @@
 comments: false
 reverseSearch: true
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Pecorino
+  - Pecorino Siciliano
 ---

@@ -7,7 +7,7 @@ reverseSearch: true
 
 ## Ingrédients
 
-- [[Échalotes]] (1/2)
+%% - [[Échalotes]] (1/2)
 - [[Citronnelle]]
 - [[Galangal]] (1 cm)
 - [[Citron Vert]] (Zest)
@@ -16,7 +16,21 @@ reverseSearch: true
 - [[Piment Thaï Rouge]] (10)
 - [[Poivre Blanc]] (2 cc)
 - [[Curcuma]] (2 cs)
-- [[Pâte de Crevette]] (1 cs)
+- [[Pâte de Crevette]] (1 cs) %%
+
+- [[Échalotes]]
+- [[Ail]] (4)
+- [[Coriandre]] (15 g)
+- [[Galangal]] (15 g)
+- [[Gingembre]] (10 g)
+- [[Citronnelle]]
+- [[Piment Thaï Rouge]] (20 g)
+- [[Citron Vert]] (Zest)
+- [[Pâte de Crevette]] (2 cc)
+- [[Graines de Coriandre]] (2 cc)
+- [[Cumin]] (1 cc)
+- [[Poivre Blanc]] (1 cc)
+- [[Sel]] (1 cc)
 
 ^ingr
 

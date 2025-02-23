@@ -1,7 +1,7 @@
 ---
-comments: false
-reverseSearch: true
 socialImage: 
 tags:
 aliases:
+reverseSearch: true
+comments: false
 ---

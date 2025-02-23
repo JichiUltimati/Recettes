@@ -3,6 +3,7 @@ socialImage:
 tags: 
 aliases:
   - Lard Fumé
+  - Guanciale
 reverseSearch: true
 comments: false
 ---

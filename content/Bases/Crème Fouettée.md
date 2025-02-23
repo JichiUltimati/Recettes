@@ -5,7 +5,7 @@ aliases:
 ---
 ## Ingrédients
 
-- [[Crème Épaisse]] (350 mL)
+- [[Crème|Crème Épaisse]] (350 mL)
 - [[Crème Fraîche]] (125 mL)
 - [[Sucre Glace]] (30 g)
 

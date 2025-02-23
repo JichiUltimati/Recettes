@@ -10,7 +10,7 @@ tags: Végétarien
 - [[Vin blanc]]
 - [[Herbes de Provence]]
 - [[Parmesan]] (40 g)
-- [[content/Ingrédients/Produits Laitiers/Crème Liquide]] (15 cl)
+- [[Crème]] (15 cl)
 
 ## Préparation
 

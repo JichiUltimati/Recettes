@@ -7,7 +7,7 @@ aliases:
 ## Ingrédients
 
 - [[Fraise]] (250 g)
-- [[Crème Liquide]] (180 g)
+- [[Crème|Crème Fleurette]] (180 g)
 - [[Sucre]] (50 g)
 
 ## Préparation

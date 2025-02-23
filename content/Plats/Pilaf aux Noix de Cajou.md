@@ -16,7 +16,7 @@ aliases:
 
 **Épices**
 
-- [[Laurier]] (2)
+- [[Feuille de Laurier]] (2)
 - [[Cardamome Verte]] (3)
 - [[Poivre Noir]]
 - [[Cumin|Graines de Carvi]] (1 cc)

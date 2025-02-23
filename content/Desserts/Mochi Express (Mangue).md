@@ -8,7 +8,7 @@ aliases:
 
 - [[Glace à la Mangue]] (80 g)
 - [[Farine de Riz Gluant]] (60 g)
-- [[Fécule de Riz]]
+- [[Fécule|Fécule de Riz]]
 
 ## Préparation
 

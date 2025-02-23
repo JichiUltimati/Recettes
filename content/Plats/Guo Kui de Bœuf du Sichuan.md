@@ -1,9 +1,8 @@
 ---
-socialImage: my_images/
-tags:
+socialImage: my_images/Guo-Kui.png
+tags: 
 aliases:
 ---
-
 ## Ingrédients
 
 **[[Galette Cong You Bing|Galette]]**

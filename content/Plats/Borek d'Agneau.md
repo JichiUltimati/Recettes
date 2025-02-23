@@ -28,12 +28,9 @@ aliases:
 - Eau (2 cs)
 - [[Beurre Doux]] (2 cs)
 
-**Sauce au Yaourt**
+**[[Sauce au Yaourt]]**
 
-- [[Yaourt Grec]] (100 mL)
-- [[Menthe]] (2 cs)
-- [[Ail]]
-- [[Citron]]
+![[Sauce au Yaourt#^ingr]]
 
 ## Préparation
 
