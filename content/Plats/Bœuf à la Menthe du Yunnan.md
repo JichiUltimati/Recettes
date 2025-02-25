@@ -16,7 +16,7 @@ aliases:
 **Plat**
 
 - [[Menthe]] (150 g)
-- [[Piment Œil d'Oiseau]] (5)
+- [[Piment|Piment Œil d'Oiseau]] (5)
 - [[Ail]] (4)
 
 **Sauce**

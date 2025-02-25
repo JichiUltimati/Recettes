@@ -7,13 +7,13 @@ aliases:
 ## Ingrédients
 
 **Poulet**
-- [[Cuisse de Poulet]] (4)
+- [[Poulet|Cuisse de Poulet]] (4)
 - [[Œuf]]
 - [[Fécule|Fécule de Pomme de Terre]] (2 cs)
 - [[Farine]] (3/4 tasse)
 
 **Sauce**
-- [[Piment Œil d'Oiseau]] (4)
+- [[Piment|Piment Œil d'Oiseau]] (4)
 - [[Ail]] (3)
 - [[Citron Vert]] (Zest + Jus)
 - [[Sucre]] (3 cs)

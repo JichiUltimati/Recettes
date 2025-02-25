@@ -7,22 +7,24 @@ aliases:
 ## Ingrédients
 
 **Porc**
-- [[Côte de Porc]] (4)
+
+- [[Porc|Côte de Porc (Échine)]] (4)
 
 **Marinade**
+
 - [[Citron Vert]] (2)
 - [[Citronnelle]]
-- [[content/Ingrédients/Aromates/Gingembre]] (3 cm)
-- [[Piment Œil d'Oiseau]] (3)
+- [[Gingembre]] (3 cm)
+- [[Piment|Piment Œil d'Oiseau]] (3)
 - [[Ail]] (3)
-- [[Curcuma]] (1 cc)
 - [[Poivre Noir]]
-- [[Cumin]] (1 cc)
 - [[Piment de Cayenne]]
 - [[Cassonade]] (3 cs)
-- [[Sauce Soja]] (1 cs)
 - [[Nuoc-mâm]] (3 cs)
-- Huile Neutre (2 cs)
+- [[Huile]] (2 cs)
+- [[Sauce Soja]] (1 cs)
+- [[Curcuma]] (1 cc)
+- [[Cumin]] (1 cc)
 
 ## Préparation
 

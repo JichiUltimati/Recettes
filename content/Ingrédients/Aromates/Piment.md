@@ -6,6 +6,10 @@ aliases:
   - Piment Fresno
   - Piment Poblano
   - Piment Habanero
+  - Piment Œil d'Oiseau
+  - Piment Jalapeno
+  - Piment Thaï Rouge
+  - Piment Thaï Vert
 reverseSearch: true
 comments: false
 ---

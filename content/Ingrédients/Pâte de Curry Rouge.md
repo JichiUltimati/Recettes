@@ -13,7 +13,7 @@ reverseSearch: true
 - [[Citron Vert]] (Zest)
 - [[Ail]] (2)
 - [[Coriandre]] (4)
-- [[Piment Thaï Rouge]] (10)
+- [[Piment|Piment Thaï Rouge]] (10)
 - [[Poivre Blanc]] (2 cc)
 - [[Curcuma]] (2 cs)
 - [[Pâte de Crevette]] (1 cs) %%
@@ -24,7 +24,7 @@ reverseSearch: true
 - [[Galangal]] (15 g)
 - [[Gingembre]] (10 g)
 - [[Citronnelle]]
-- [[Piment Thaï Rouge]] (20 g)
+- [[Piment|Piment Thaï Rouge]] (20 g)
 - [[Citron Vert]] (Zest)
 - [[Pâte de Crevette]] (2 cc)
 - [[Graines de Coriandre]] (2 cc)

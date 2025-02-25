@@ -9,7 +9,7 @@ aliases:
 - [[Riz|Riz Basmati]]
 - [[Poulet|Poulet Haché]] (300 g)
 - [[Ail]] (5)
-- [[Piment Œil d'Oiseau]] (4)
+- [[Piment|Piment Œil d'Oiseau]] (4)
 - [[Oignon]] (1/2)
 - [[Basilic]]
 

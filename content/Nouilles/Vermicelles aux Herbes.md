@@ -18,7 +18,7 @@ aliases:
 - [[Citron Vert]] (50 mL)
 - [[Coriandre]] (20 g)
 - [[Menthe]] (20 g)
-- [[Piment Œil d'Oiseau]] (2)
+- [[Piment|Piment Œil d'Oiseau]] (2)
 
 ## Préparation
 

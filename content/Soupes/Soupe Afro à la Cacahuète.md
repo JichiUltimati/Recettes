@@ -4,7 +4,7 @@ socialImage: my_images/Afro.png
 ## Ingrédients (x4)
 
 - [[Oignon Rouge]]
-- [[Piment Jalapeno]]
+- [[Piment|Piment Jalapeno]]
 - [[Concentré de Tomate]]
 - [[Gingembre]] (2 cm)
 - [[Ail]] (4)

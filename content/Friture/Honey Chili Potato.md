@@ -20,7 +20,7 @@ aliases:
 - [[Poivron|Poivron Rouge]]
 - [[Oignon]]
 - [[Ail]] (5)
-- [[Piment Thaï Vert]] (3)
+- [[Piment|Piment Thaï Vert]] (3)
 
 **Sauce**
 - [[Miel]] (2 cs)

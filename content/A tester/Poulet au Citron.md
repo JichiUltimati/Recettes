@@ -7,9 +7,10 @@ socialImage: my_images/Lemon-Chicken.png
  **Poulet Frit**
 - Cuisse de Poulet
 - Maïzena (6 cs)
-- Œuf
+
 
 **Marinade**
+- Œuf
 -  Sel (1 cs)
 - Sucre (1 cs)
 - Poivre Blanc (1 cs)
@@ -33,3 +34,5 @@ socialImage: my_images/Lemon-Chicken.png
 5. Frire : 5 minutes à 170°C + 30 secondes à 200°C
 6. Sauter : ail et gingembre
 7. Presser et zester le citron et cuire la sauce
+
+Harmoniser avec le poulet à l'orange ou pas?

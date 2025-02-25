@@ -24,7 +24,7 @@ aliases:
 - [[Ail]] (2)
 - [[Coriandre]] (4)
 - [[Basilic]]
-- [[Piment Thaï Vert]] (15)
+- [[Piment|Piment Thaï Vert]] (15)
 - [[Poivre Blanc]] (2 cc)
 - [[Graines de Coriandre]] (2 cc)
 - [[Cumin]] (1 cc)

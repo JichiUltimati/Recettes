@@ -27,7 +27,7 @@ aliases:
 
 - [[Riz]] (200 g)
 - [[Kimchi]] (160 g)
-- [[Laitue]] 
+- [[Salade|Laitue]] 
 
 ## Préparation
 

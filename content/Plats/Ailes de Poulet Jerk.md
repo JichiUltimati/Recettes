@@ -24,5 +24,5 @@ aliases:
 
 ## Préparation
 
-1. Mariner le poulet >2 heures.
+1. Mariner le poulet >2 heures dans les épices.
 2. Cuire au four à 220°C pendant 30 minutes. tourner et badigeonner à mi-cuisson.

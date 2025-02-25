@@ -14,6 +14,10 @@ aliases:
 - [[Poivre Blanc]]
 - [[Sel]]
 
+^ingr
+
 ## Préparation
 
 1. Hacher tous les légumes finement et mélanger au reste.
+
+^prep

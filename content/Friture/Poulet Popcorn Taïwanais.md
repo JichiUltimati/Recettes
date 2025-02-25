@@ -5,9 +5,10 @@ aliases:
 ---
 ## Ingrédients
 
+- [[Poulet|Blanc de Poulet]] (500 g)
+
 **Marinade**
 
-- [[Poulet|Blanc de Poulet]] (500 g)
 - [[Sauce Soja]] (1 cs)
 - [[Sel]] (1 cc)
 - [[Cinq Épices]] (1 cc)
@@ -19,7 +20,7 @@ aliases:
 **Dredge**
 
 - [[Fécule|Fécule de Patate Douce]] (100 g)
-- [[Farine]] (2 cs)
+- [[Farine]] (50 g)
 
 **Garniture**
 
@@ -31,9 +32,12 @@ aliases:
 
 ## Préparation
 
-1. Faire mariner le poulet pendant >20 minutes.
-2. Mélanger un peu de la marinade au dredge.
-3. Y tremper le poulet et faire frire à 160°C.
-4. Chauffer et pilonner le poivre de Sichuan.
-5. Frire le basilic 10 secondes.
-6. Mélanger le poulet à la garniture.
+**[[Poulet Popcorn]]**
+
+![[Poulet Popcorn#^prep]]
+
+**Garniture**
+
+1. Chauffer et pilonner le poivre de Sichuan.
+2. Frire le basilic 10 secondes.
+3. Mélanger le poulet à la garniture.

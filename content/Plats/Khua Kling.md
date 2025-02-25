@@ -8,7 +8,7 @@ aliases:
 
 **Curry**
 - [[Porc|Porc Haché]] (450 g)
-- [[Piment Œil d'Oiseau]] 
+- [[Piment|Piment Œil d'Oiseau]] 
 - [[Feuille de Combava]] (8)
 - [[Nuoc-mâm]] (2 cc)
 - [[Sucre]] (2 cc)

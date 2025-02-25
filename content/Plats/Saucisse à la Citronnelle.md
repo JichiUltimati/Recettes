@@ -26,7 +26,7 @@ aliases:
 **Accompagnements**
 
 - [[Riz]] (200 g)
-- [[Laitue]]
+- [[Salade|Laitue]]
 - [[Coriandre]] (20 g)
 - [[Menthe]] (20 g)
 - [[Nuoc-mâm]]
