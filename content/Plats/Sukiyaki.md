@@ -20,9 +20,14 @@ aliases:
 
 ## Préparation
 
-1. Congeler la viande ~45 minutes pour la couper en tranches fines.
-2. Préparer les légumes et servir à table.
-3. Servir un œuf battu dans un bol à chaque personne.
+**[[Fines Tranches de Viande]]**
+
+![[Fines Tranches de Viande#^prep]]
+
+**Préparation**
+
+1. Préparer les légumes et servir à table.
+2. Servir un œuf battu dans un bol à chaque personne.
 
 **Fondue**
 1. Installer le pot à fondue au milieu de la table.

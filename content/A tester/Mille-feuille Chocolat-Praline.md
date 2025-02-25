@@ -14,9 +14,13 @@ aliases:
 - Chocolat
 - Praliné
 
-**[[Pâte Feuilletée Rapide|Pâte Feuilletée]]**
+**[[Pâte Feuilletée]]**
 
-![[Pâte Feuilletée Rapide#^ingr]]
+![[Pâte Feuilletée#^ingr-pate]]
+
+**[[Pâte Feuilletée|Bloc de Beurre]]**
+
+![[Pâte Feuilletée#^ingr-beurre]]
 
 **Décoration**
 
@@ -24,9 +28,13 @@ aliases:
 
 ## Préparation
 
-**[[Pâte Feuilletée Rapide|Pâte Feuilletée]]**
+**[[Pâte Feuilletée|Bloc de Beurre]]**
 
-![[Pâte Feuilletée Rapide#^ingr]]
+![[Pâte Feuilletée#^prep-beurre]]
+
+**[[Pâte Feuilletée]]**
+
+![[Pâte Feuilletée#^prep-pate]]
 
 **Cuisson**
 

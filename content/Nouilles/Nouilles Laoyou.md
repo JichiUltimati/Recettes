@@ -1,6 +1,6 @@
 ---
-socialImage: my_images/
-tags:
+socialImage: my_images/Laoyou.png
+tags: 
 aliases:
 ---
 ## Ingrédients

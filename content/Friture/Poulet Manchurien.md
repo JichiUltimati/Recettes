@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/
+socialImage: my_images/Manchurien.png
 tags:
 aliases:
 ---

@@ -6,7 +6,7 @@ aliases:
 
 ## Ingrédients
 
-**Farce**
+**Garniture**
 
 - [[Lait Entier]] (150 mL)
 - [[Graines de Pavot]] (100 g)
@@ -21,7 +21,7 @@ aliases:
 
 ## Préparation
 
-**Farce**
+**Garniture**
 
 1. Mijoter le lait et le pavot pendant 15 minutes à feu doux.
 2. Laisser refroidir et mélanger le reste des ingrédients au mixer.

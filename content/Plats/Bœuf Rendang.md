@@ -22,7 +22,6 @@ aliases:
 - [[Piment|Piment Serrano]] (2)
 - [[Piment|Piment Fresno]] 
 - [[Flocons de Piments Séchés]] (2 cs)
-
 - [[Graines de Coriandre]] (2 cc)
 - [[Huile]] (1 cc)
 - [[Curcuma]] (1 cc)

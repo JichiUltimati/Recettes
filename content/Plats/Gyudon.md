@@ -22,7 +22,12 @@ aliases:
 - [[Benishoga]]
 ## Préparation
 
-1. Congeler l'épaule pendant 45 minutes et la découper en fines tranches.
-2. Porter la sauce à ébullition.
-3. Rajouter les oignons, puis les tranches de bœuf par dessus.
-4. Garnir et servir.
+**[[Fines Tranches de Viande]]**
+
+![[Fines Tranches de Viande#^prep]]
+
+**Plat**
+
+1. Porter la sauce à ébullition.
+2. Rajouter les oignons, puis les tranches de bœuf par dessus.
+3. Garnir et servir.

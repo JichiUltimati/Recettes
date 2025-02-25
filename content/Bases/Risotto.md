@@ -6,12 +6,12 @@ aliases:
 
 ## Ingrédients
 
-- [[Riz|Riz Arborio]] (450 g)
-- [[Parmesan]] (75 g)
-- [[Beurre Doux]] (50 g)
+- [[Riz|Riz Arborio]] (320 g)
+- [[Parmesan]] (60 g)
+- [[Beurre Doux]] (40 g)
 - [[Échalotes]]
 - [[Ail]] (3)
-- [[Bouillon de Poule]] (1 L)
+- [[Bouillon de Poule]] (750 mL)
 - [[Vin Blanc]] (10 cL)
 
 ^ingr

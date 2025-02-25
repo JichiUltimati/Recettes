@@ -13,9 +13,13 @@ aliases:
 
 - [[Pistache]] (150 g)
 
-**[[Pâte Feuilletée Rapide|Pâte Feuilletée]]**
+**[[Pâte Feuilletée]]**
 
-![[Pâte Feuilletée Rapide#^ingr]]
+![[Pâte Feuilletée#^ingr-pate]]
+
+**[[Pâte Feuilletée|Bloc de Beurre]]**
+
+![[Pâte Feuilletée#^ingr-beurre]]
 
 **Décoration**
 
@@ -24,9 +28,14 @@ aliases:
 
 ## Préparation
 
-**[[Pâte Feuilletée Rapide|Pâte Feuilletée]]**
 
-![[Pâte Feuilletée Rapide#^ingr]]
+**[[Pâte Feuilletée|Bloc de Beurre]]**
+
+![[Pâte Feuilletée#^prep-beurre]]
+
+**[[Pâte Feuilletée]]**
+
+![[Pâte Feuilletée#^prep-pate]]
 
 **Cuisson**
 

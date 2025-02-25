@@ -10,6 +10,7 @@ aliases:
   - Campanelle
   - Busiati
   - Bucatini
+  - Spaghetti
 reverseSearch: true
 comments: false
 ---
