@@ -8,16 +8,16 @@ aliases:
 
 **Stir-Fry**
  - [[Porc|Échine de Porc]] (300 g)
+- [[Chou]] (200 g)
  - [[Poivron|Poivron Vert]] 
- - [[Chou]]
  - [[Cébette]]
  - [[Ail]]
  - [[Poivre Blanc]]
 
 **Sauce**
-- [[Doubanjiang]] (1 cs)
 - [[Tienmienjiang]] (2 cs)
 - [[Saké]] (2 cs)
+- [[Doubanjiang]] (1 cs)
 - [[Sauce Soja]] (2 cc)
 - [[Sucre]] (1 cc)
 

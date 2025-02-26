@@ -9,4 +9,5 @@ aliases:
   - Porc Haché
   - Côte de Porc (Échine)
   - Épaule de Porc
+  - Faux-Filet de Porc
 ---

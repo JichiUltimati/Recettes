@@ -1,6 +1,6 @@
 ---
-socialImage: my_images/
-tags:
+socialImage: my_images/Poivrons-Grillés.png
+tags: 
 aliases:
 ---
 ## Ingrédients
@@ -21,4 +21,4 @@ aliases:
 
 ## Notes
 
-Alternativement, 40 minutes à 210°C (mode grill) fera l'affaire.
+Alternativement, 40 minutes à 210°C (mode grill) feront l'affaire.
