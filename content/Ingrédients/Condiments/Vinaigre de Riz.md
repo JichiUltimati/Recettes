@@ -2,6 +2,7 @@
 comments: false
 reverseSearch: true
 socialImage: 
-tags:
+tags: 
 aliases:
+  - Vinaigre de Riz Noir
 ---

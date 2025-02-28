@@ -5,16 +5,12 @@ aliases:
 ---
 ## Ingrédients
 
-- [[Gâteau de Riz|Tteokbokki]] (200 g)
+- [[Gâteau de Riz|Tteokbokki]] (400 g)
 - [[Oignon]] (2)
 
-**Sauce**
-- [[Bouillon de Poule]] (60 mL)
-- [[Sucre]] (50 g)
-- [[Doubanjiang|Ssämjang]] (90 g)
-- [[Mirin]] (4 cs)
-- [[Sauce Soja]] (1 cs)
-- [[Vinaigre de Cidre]] (1 cc)
+**[[Sauce du Dragon]]**
+
+![[Sauce du Dragon#^ingr]]
 
 **Garniture**
 

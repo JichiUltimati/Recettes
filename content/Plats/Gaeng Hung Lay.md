@@ -5,13 +5,15 @@ aliases:
 ---
 ## Ingrédients
 
-[[Pâte de Curry Rouge]]
+**[[Pâte de Curry Rouge]]**
+
 ![[Pâte de Curry Rouge#^ingr]]
 
 **Curry**
-
+%% 
 - [[Porc|Poitrine de Porc]] (225 g)
-- [[Porc|Échine de Porc]] (225 g)
+- [[Porc|Échine de Porc]] (225 g) %%
+- [[Porc|Échine de Porc]] (450 g)
 - [[Oignon]]
 - [[Ail]] (1 tête)
 - [[Gingembre]] (5 cm)

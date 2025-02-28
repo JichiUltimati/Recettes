@@ -5,7 +5,11 @@ aliases:
 ---
 ## Ingrédients
 
-- [[Porc|Côte de Porc (Échine)]] (2)
+**[[Tonkatsu]]**
+
+![[Tonkatsu#^ingr]]
+
+**Plat**
 
 ![[Don#^ingr]]
 

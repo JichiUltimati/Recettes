@@ -10,6 +10,7 @@ aliases:
   - Piment Jalapeno
   - Piment Thaï Rouge
   - Piment Thaï Vert
+  - Piment Chipotle
 reverseSearch: true
 comments: false
 ---

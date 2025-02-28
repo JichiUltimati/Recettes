@@ -5,13 +5,20 @@ aliases:
 ---
 ## Ingrédients
 
+**Porc**
+
 - [[Porc|Côte de Porc (Échine)]] (2)
+- [[Poivre Blanc]]
+
+^ingr
 
 **Garniture**
 
 - [[Sauce Worcestershire|Sauce Tonkatsu]]
 - [[Chou]] (100 g)
 - [[Citron]]
+
+^ingr-garniture
 
 **Panure**
 

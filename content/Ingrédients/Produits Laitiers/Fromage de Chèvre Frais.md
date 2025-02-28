@@ -1,8 +1,7 @@
 ---
 socialImage: 
-tags: 
+tags:
 aliases:
-  - Babeurre
 reverseSearch: true
 comments: false
 ---

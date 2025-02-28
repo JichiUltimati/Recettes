@@ -5,4 +5,5 @@ socialImage:
 tags: 
 aliases:
   - Chou Vert
+  - Chou Chinois
 ---
