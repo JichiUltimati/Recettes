@@ -1,5 +1,5 @@
 ---
-socialImage: my_images/Galette-PAtate.png
+socialImage: my_images/Galette-Patate.png
 tags: 
 aliases:
 ---

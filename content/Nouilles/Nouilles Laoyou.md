@@ -25,7 +25,6 @@ aliases:
 - [[Vinaigre de Riz]] (2 cs)
 - [[Sauce Huître]] (2 cc)
 - [[Sucre]] (1 cc)
-- [[Bouillon de Poule]] (1/4 cc)
 
 **Garniture**
 
