@@ -16,11 +16,12 @@ aliases:
 - [[Porc|Échine de Porc]] (450 g)
 - [[Oignon]]
 - [[Ail]] (1 tête)
-- [[Gingembre]] (5 cm)
+- [[Galangal]] (5 cm)
 - [[Garam Masala]] (2 cs)
 
-**Sauce**
+**Bouillon**
 
+- [[Bouillon de Bœuf]] (500 mL)
 - [[Concentré de Tamarin]] (4 cs)
 - [[Sucre]] (2 cs)
 - [[Sauce Soja]] (2 cs)
@@ -32,8 +33,12 @@ aliases:
 
 ![[Pâte de Curry Rouge#^prep]]
 
+
 **Curry**
-1. Saisir le porc et ajouter la pâte de curry.
-2. Mélanger quelques minutes et couvrir d'eau.
-3. Ajouter la sauce et laisser mijoter 2 heures.
-4. Ajouter le reste des ingrédients et laisser mijoter 20 minutes
+
+1. Saisir la viande dans de l'huile et réserver.
+2. Faire revenir l'ail entier et le galangal.
+3. Ajouter les oignons et faire revenir.
+4. Ajouter le garam massala et la pâte de curry. Sauter ~60 secondes.
+5. Déglacer avec le bouillon. Ajouter la viande réservée.
+6. Laisser mijoter jusqu'à ce que la viande soit tendre (> 2 heures)
