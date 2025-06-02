@@ -27,7 +27,7 @@ aliases:
 
 **Garniture**
 
-- [[Thym|Marjolaine]]
+- [[Origan|Marjolaine]]
 - [[Crème Fraîche|Smetana]]
 
 ## Préparation

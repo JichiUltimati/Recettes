@@ -2,8 +2,7 @@
 socialImage: 
 tags: 
 aliases:
-  - Baguette
-  - Pain de Campagne
+  - Cerises Blanches
 reverseSearch: true
 comments: false
 ---

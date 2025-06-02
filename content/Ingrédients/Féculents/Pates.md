@@ -11,6 +11,8 @@ aliases:
   - Busiati
   - Bucatini
   - Spaghetti
+  - Spaghettini
+  - Rigatoni
 reverseSearch: true
 comments: false
 ---
