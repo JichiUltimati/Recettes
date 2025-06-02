@@ -10,6 +10,7 @@ aliases:
 - [[Cerises|Cerises Blanches]] (2,5 kg)
 - [[Sucre]] (2 kg)
 - [[Framboise]] (500 g)
+- Eau (100 mL)
 - [[Citron]] 
 
 **[[Gelée de Pommes Vertes]]**
